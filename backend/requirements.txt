@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Pillow
+numpy
+pandas
+PyMySQL
+scikit-learn
+sentence-transformers
+torch
+torchvision
